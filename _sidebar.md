@@ -1,6 +1,6 @@
 - [支队基本信息](README)
 - [行程信息](itinerary)
 - [队员联系方式](contact)
-- [安全预案](safety)
+- [安全信息与预案](safety)
 - [实践地基本信息](local)
 - [行李清单](luggage)

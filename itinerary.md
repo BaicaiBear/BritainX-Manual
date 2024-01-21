@@ -27,13 +27,11 @@
 ## 住宿安排
 - 1.24-1.31  
 伦敦伯爵府宜必思酒店  
-47 Lillie Rd, Earls Court,Hammersmith and Fulham,London  
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2484.4762393917104!2d-0.1997680714052696!3d51.48612756073566!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48760f8fd3493709%3A0xa6035cc2bedbf78f!2zNDcgTGlsbGllIFJkLCBMb25kb24gU1c2IDFVROiLseWbvQ!5e0!3m2!1szh-CN!2sus!4v1705839915893!5m2!1szh-CN!2sus" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+47 Lillie Rd, Earls Court,Hammersmith and Fulham,London  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2484.4762393917104!2d-0.1997680714052696!3d51.48612756073566!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48760f8fd3493709%3A0xa6035cc2bedbf78f!2zNDcgTGlsbGllIFJkLCBMb25kb24gU1c2IDFVROiLseWbvQ!5e0!3m2!1szh-CN!2sus!4v1705839915893!5m2!1szh-CN!2sus" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 - 2.1-2.4  
 曼彻斯特波特兰宜必思时尚酒店  
-3-5 Portland Street, Piccadilly Gardens, Manchester
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d826.6744988492674!2d-2.236152154564023!3d53.48031749856789!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487bb1bfab0b4673%3A0x8336426f76e99947!2s3-5%20Portland%20St%2C%20Piccadilly%2C%20Manchester%20M1%206DP%E8%8B%B1%E5%9B%BD!5e0!3m2!1szh-CN!2sus!4v1705840198338!5m2!1szh-CN!2sus" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+3-5 Portland Street, Piccadilly Gardens, Manchester <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d826.6744988492674!2d-2.236152154564023!3d53.48031749856789!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487bb1bfab0b4673%3A0x8336426f76e99947!2s3-5%20Portland%20St%2C%20Piccadilly%2C%20Manchester%20M1%206DP%E8%8B%B1%E5%9B%BD!5e0!3m2!1szh-CN!2sus!4v1705840198338!5m2!1szh-CN!2sus" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 - 2.4-2.5
 【待定】
@@ -52,10 +50,10 @@
 
 ### 1月25日
 
-9：00-11:00    酒店-牛津大学 New College  
-11：00-12:30 午餐    
+9：00-11：00    酒店-牛津大学 New College  
+11：00-12：30 午餐    
 13：00-17：00     
- 17：00后 自由活动    
+17：00后 自由活动    
 *	三餐：午餐在New Cellege，早餐、晚餐自行解决
 *	交通：
 	 * 牛津：步行
@@ -73,7 +71,7 @@
 ### 1月26日
  
 9：00-11：30    酒店-克兰菲尔德大学  
-11：30-12；30 午餐  
+11：30-12：30 午餐  
 13：00-17：30   
 17：30后 自由活动    
 *	三餐：自行解决
@@ -89,14 +87,14 @@
     *	伦敦眼：建议提前官网购票，摩天轮约30分钟。
     *	威斯敏斯特教堂：周六开放时间9：00-13：00，需网上买票。
     *	海德公园：地铁 Piccadilly 线 Hyde Park Corner 站、 Knightsbridge 站。
-    * 自然史博物馆 10：00~17：50 欧洲最大的自然博物馆，挨着海德公园
+    * 自然史博物馆 10：00-17：50 欧洲最大的自然博物馆，挨着海德公园
 
 ### 1月28日
 
 9：00-11：00 伦敦-剑桥   
 11：30-13：00 午餐 
-13:30-18:00    剑桥大学  
-18:00-19：00       晚餐  
+13：30-18：00    剑桥大学  
+18：00-19：00       晚餐  
 19：00后 自由活动
 *	三餐：晚餐在剑桥大学，早、午餐自行解决
 *	交通：
@@ -135,13 +133,13 @@
 方案一：  
 9：00-11：00 伦敦-剑桥   
 11：30-13：00 午餐   
-13:30-18:00    剑桥启迪科技园  
+13：30-18：00    剑桥启迪科技园  
 18：00后 自由活动
 
 方案二：  
 9：00-11：00 伦敦-剑桥   
 11：30-13：00 午餐   
-13:30-18:00    剑桥清华校友交流  
+13：30-18：00    剑桥清华校友交流  
 18：00后 自由活动
 
 *	三餐：自行解决
@@ -201,4 +199,4 @@
 ### 2月7日
 15：00 到达郑州
 
-### 注：若外出或自由活动务必报备并结伴同行， **严禁单独行动**。
+#### 注：若外出或自由活动务必报备并结伴同行， **严禁单独行动**。
