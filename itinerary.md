@@ -1,18 +1,29 @@
 # 行程安排
+
+## 目录
+- [住宿安排](#住宿安排)  
+- [机票](#机票)
+- [每日行程](#每日行程)
+  - [1月](#1月24日)
+  - [2月](#2月1日)
+---
+
 ## 住宿安排
-1.24-1.31  
+- 1.24-1.31  
 伦敦伯爵府宜必思酒店  
 47 Lillie Rd, Earls Court,Hammersmith and Fulham,London  
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2484.4762393917104!2d-0.1997680714052696!3d51.48612756073566!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48760f8fd3493709%3A0xa6035cc2bedbf78f!2zNDcgTGlsbGllIFJkLCBMb25kb24gU1c2IDFVROiLseWbvQ!5e0!3m2!1szh-CN!2sus!4v1705839915893!5m2!1szh-CN!2sus" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-2.1-2.4  
+- 2.1-2.4  
 曼彻斯特波特兰宜必思时尚酒店  
-3-5 Portland Street, Piccadilly Gardens, 曼彻斯特, M1 6DP, 英国
+3-5 Portland Street, Piccadilly Gardens, Manchester
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d826.6744988492674!2d-2.236152154564023!3d53.48031749856789!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487bb1bfab0b4673%3A0x8336426f76e99947!2s3-5%20Portland%20St%2C%20Piccadilly%2C%20Manchester%20M1%206DP%E8%8B%B1%E5%9B%BD!5e0!3m2!1szh-CN!2sus!4v1705840198338!5m2!1szh-CN!2sus" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-2.4-2.5
+- 2.4-2.5
 【待定】
 
 ## 机票
-![机票图片](images/flight.jpg) 
+![机票图片](images/flight.jpg)
 
 ## 每日行程
 ### 1月24日：
