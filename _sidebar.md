@@ -1,4 +1,4 @@
-- [支队基本信息](info)
+- [支队基本信息](README)
 - [行程信息](itinerary)
 - [安全预案](safety)
 - [实践地基本信息](local)
