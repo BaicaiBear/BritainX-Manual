@@ -25,6 +25,7 @@
     - [2月6日](#2月6日)
     - [2月7日](#2月7日)
   - [推荐活动地](#推荐活动地)
+      - [注：若外出或自由活动务必报备并结伴同行， **严禁单独行动**。](#注若外出或自由活动务必报备并结伴同行-严禁单独行动)
     - [伦敦](#伦敦)
     - [牛津](#牛津)
     - [剑桥](#剑桥)
@@ -84,6 +85,7 @@
 | 13:00-17:30 |                  |
 | 17:30后     | 自由活动         |
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2452.3126777922694!2d-0.6307806236782464!3d52.074037671947636!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4877ac4d48c8faeb%3A0x44c903e6bd92ce97!2z5YWL6Jit6I-y54i-5b635aSn5a24!5e0!3m2!1szh-CN!2shk!4v1705856407922!5m2!1szh-CN!2shk" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
 *	三餐：自行解决
 *	交通：
 
