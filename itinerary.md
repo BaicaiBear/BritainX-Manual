@@ -121,7 +121,13 @@
 
 | 时间        | 日程             |
 | ----------- | ---------------- |
-| 暂定15:00开始 | 伦敦大学学院（UCL） |
+| 15:00 | 伦敦大学学院（UCL）Students Arrival at Reception Desk, Roberts Building Engineering Front <br />(Off Torrington Place, London WC1E 7JE; Tube Stations: Goodge Street, Russell Square ​Warren Street or Euston Square) |
+| 15:05 – 16:15​ | Laboratory Visits <br /> 1) Bioengineering labs: pressurised gyration, electrohydrodynamics, etc. (Ahmed Jubair, Yanqi Dai, Xiaofeng Wang, Fanjin Wang) <bt /> 2) Combustion and energy labs (Paul Hellier) |
+| 16:15 – 17:15​ | Academic Exchange Forum (Room 422, Roberts Building) |
+| 17:15 – 17:45​ | Laboratory Visits <br /> 3) Towing tank (Davide Grande) <br /> 4) Robotics lab at MPEB 522 (Yuanchang Liu) |
+| 17:45 – 19:00​ | Campus Visit |
+| 19:00​ | Departure from UCL and Dinner |
+ 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d39718.10662586241!2d-0.21025775136717517!3d51.524559200000006!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761b2f69173579%3A0xd008c67faecc133e!2z5YCr5pWm5aSn5a245a246Zmi!5e0!3m2!1szh-CN!2shk!4v1705856485584!5m2!1szh-CN!2shk" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 *	三餐：自行解决
